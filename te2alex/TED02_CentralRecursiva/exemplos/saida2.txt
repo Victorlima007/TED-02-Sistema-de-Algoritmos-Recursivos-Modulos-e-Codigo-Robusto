@@ -1,0 +1,8 @@
+MDC = 6
+SOMA = 10
+MDC = 25
+SOMA = 27
+ERRO: EntradaInvalida
+ERRO: OperacaoInvalida
+SOMA = 0
+MDC = 1
